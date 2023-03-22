@@ -1,0 +1,12 @@
+/* some css */
+.App {
+  text-align: center;
+}
+
+.button{
+  border: 1px solid black;
+}
+.job:hover{
+  color:rgb(48, 114, 233);
+  background:rgb(211, 209, 207)
+}
